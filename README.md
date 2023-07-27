@@ -1,4 +1,4 @@
-# Aplicativo de Contador - Implementação MVC e Orientada a Objetos
+# App "Contador" - Implementação MVC e Orientada a Objetos
 
 Este repositório contém um aplicativo simples de contador implementado utilizando a arquitetura MVC (Model-View-Controller) e escrito em JavaScript com uma abordagem orientada a objetos. O aplicativo permite que os usuários incrementem e redefinam um valor de contador, com as mudanças sendo refletidas na interface do usuário dinamicamente.
 
