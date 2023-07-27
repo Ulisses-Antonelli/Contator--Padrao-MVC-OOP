@@ -43,4 +43,4 @@ Contribuições para este projeto são bem-vindas. Sinta-se à vontade para abri
 
 ---
 
-O objetivo de implementar o App "Contador" com a arquitetura MVC e a abordagem orientada a objetos, é meramente um exercício de aprendizado.O projeto foi desenvolvido com o intuito de compreender melhor os princípios da arquitetura MVC e da programação orientada a objetos em JavaScript.
+O objetivo de implementar o App "Contador" com a arquitetura MVC e a abordagem orientada a objetos, é meramente um exercício de aprendizado. O projeto foi desenvolvido com o intuito de compreender melhor os princípios da arquitetura MVC e da programação orientada a objetos em JavaScript.
